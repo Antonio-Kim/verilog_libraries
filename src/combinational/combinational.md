@@ -6,3 +6,4 @@ each file is named with the logic, and then number of inputs (the inputs could b
 - AND gate with two inputs, one output
 - MUX with two inputs
 - Decoder with two inputs and four outputs
+- Full adder with two inputs plus carry in, and one output with carry out
